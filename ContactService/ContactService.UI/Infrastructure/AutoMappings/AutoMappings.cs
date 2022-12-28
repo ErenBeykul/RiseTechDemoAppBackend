@@ -9,6 +9,7 @@ namespace ContactService.UI.AutoMappings
         public MappingProfile()
         {
             CreateMap<PersonData, Person>().ReverseMap();
+            CreateMap<ContactInfoData, ContactInfo>().ReverseMap();
         }
     }
 }

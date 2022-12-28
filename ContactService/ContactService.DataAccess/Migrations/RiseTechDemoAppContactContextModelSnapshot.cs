@@ -30,18 +30,16 @@ namespace ContactService.DataAccess.Migrations
                         .HasColumnName("id");
 
                     b.Property<DateTime>("CreateDate")
-                        .HasColumnType("timestamp with time zone")
+                        .HasColumnType("timestamp without time zone")
                         .HasColumnName("create_date");
 
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("varchar(50)")
-                        .HasColumnName("email");
-
                     b.Property<string>("Info")
-                        .IsRequired()
-                        .HasColumnType("varchar(1000)")
+                        .HasColumnType("varchar(100)")
                         .HasColumnName("info");
+
+                    b.Property<string>("InfoType")
+                        .HasColumnType("varchar(10)")
+                        .HasColumnName("info-type");
 
                     b.Property<bool>("IsDeleted")
                         .ValueGeneratedOnAdd()
@@ -49,23 +47,13 @@ namespace ContactService.DataAccess.Migrations
                         .HasDefaultValue(false)
                         .HasColumnName("is_deleted");
 
-                    b.Property<string>("Location")
-                        .IsRequired()
-                        .HasColumnType("varchar(20)")
-                        .HasColumnName("location");
-
                     b.Property<Guid>("PersonId")
                         .HasColumnType("uuid")
                         .HasColumnName("person_id");
 
-                    b.Property<string>("Phone")
-                        .IsRequired()
-                        .HasColumnType("varchar(20)")
-                        .HasColumnName("phone");
-
-                    b.Property<DateTime>("UpdateDate")
-                        .HasColumnType("timestamp with time zone")
-                        .HasColumnName("Update_date");
+                    b.Property<DateTime?>("UpdateDate")
+                        .HasColumnType("timestamp without time zone")
+                        .HasColumnName("update_date");
 
                     b.HasKey("Id");
 
@@ -82,11 +70,10 @@ namespace ContactService.DataAccess.Migrations
                         .HasColumnName("id");
 
                     b.Property<DateTime>("CreateDate")
-                        .HasColumnType("timestamp with time zone")
+                        .HasColumnType("timestamp without time zone")
                         .HasColumnName("create_date");
 
                     b.Property<string>("Firm")
-                        .IsRequired()
                         .HasColumnType("varchar(50)")
                         .HasColumnName("firm");
 
@@ -97,17 +84,15 @@ namespace ContactService.DataAccess.Migrations
                         .HasColumnName("is_deleted");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("varchar(20)")
                         .HasColumnName("name");
 
                     b.Property<string>("Surname")
-                        .IsRequired()
                         .HasColumnType("varchar(20)")
                         .HasColumnName("surname");
 
-                    b.Property<DateTime>("UpdateDate")
-                        .HasColumnType("timestamp with time zone")
+                    b.Property<DateTime?>("UpdateDate")
+                        .HasColumnType("timestamp without time zone")
                         .HasColumnName("update_date");
 
                     b.HasKey("Id");

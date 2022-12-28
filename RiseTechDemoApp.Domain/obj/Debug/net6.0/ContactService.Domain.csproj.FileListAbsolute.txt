@@ -1,0 +1,24 @@
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\bin\Debug\net6.0\ContactService.Domain.deps.json
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\bin\Debug\net6.0\ContactService.Domain.dll
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\bin\Debug\net6.0\ContactService.Domain.pdb
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.AssemblyInfoInputs.cache
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.AssemblyInfo.cs
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.dll
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\obj\Debug\net6.0\refint\ContactService.Domain.dll
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.pdb
+C:\Users\Eren\Desktop\Yedek\ContactService.Domain\obj\Debug\net6.0\ref\ContactService.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\bin\Debug\net6.0\ContactService.Domain.deps.json
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\bin\Debug\net6.0\ContactService.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\bin\Debug\net6.0\ContactService.Domain.pdb
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.csproj.AssemblyReference.cache
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.AssemblyInfoInputs.cache
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.AssemblyInfo.cs
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.csproj.CoreCompileInputs.cache
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\obj\Debug\net6.0\refint\ContactService.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\obj\Debug\net6.0\ContactService.Domain.pdb
+D:\Rise Technology\RiseTechDemoApp\ContactService\ContactService.Domain\obj\Debug\net6.0\ref\ContactService.Domain.dll

@@ -1,11 +1,11 @@
 using AutoMapper;
+using ContactService.Service;
 using Microsoft.AspNetCore.Mvc;
 using RiseTechDemoApp.Domain.Constants;
 using RiseTechDemoApp.Domain.DBModels;
 using RiseTechDemoApp.Domain.DTO;
 using RiseTechDemoApp.Domain.Enums;
 using RiseTechDemoApp.Domain.Extensions;
-using ContactService.Service;
 
 namespace ContactService.UI.Controllers
 {

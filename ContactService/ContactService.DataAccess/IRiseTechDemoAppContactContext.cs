@@ -1,5 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using RiseTechDemoApp.Domain.DBModels;
+﻿using RiseTechDemoApp.Domain.DBModels;
+using Microsoft.EntityFrameworkCore;
 
 namespace ContactService.DataAccess;
 

@@ -2,6 +2,7 @@ using Lamar;
 using Lamar.Microsoft.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using ContactService.DataAccess;
+using ContactService.UI.Management;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,8 @@ builder.Host.ConfigureContainer<ServiceRegistry>(services =>
         x.Assembly("ContactService.Service");
         x.Assembly("ContactService.DataAccess");
     });
+
+    services.Policies.SetAllProperties(y => y.OfType<IControllerManager>());
 });
 
 // Add services to the container.
@@ -24,8 +27,14 @@ builder.Services.AddDbContext<RiseTechDemoAppContactContext>(options =>
     options.UseNpgsql(builder.Configuration.GetConnectionString("RiseTechDemoAppContactContext"))
 );
 
+builder.Services.AddHttpClient("ReportClient", client =>
+{
+    client.BaseAddress = new Uri(builder.Configuration.GetSection("ReportServiceBaseAddress").Get<string>());
+    client.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue(builder.Configuration.GetSection("ReportServiceAuthToken").Get<string>());
+});
+
 builder.Services.AddAutoMapper(typeof(Program));
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddControllersAsServices();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -36,6 +45,7 @@ builder.Services.AddCors(options =>
         policy =>
         {
             policy.WithOrigins(builder.Configuration.GetSection("AllowedOrigins").Get<string[]>())
+                  .WithExposedHeaders("Content-Disposition")
                   .AllowAnyHeader();
         });
 });

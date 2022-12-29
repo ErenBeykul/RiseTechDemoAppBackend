@@ -1,4 +1,3 @@
-using AutoMapper;
 using ContactService.Service;
 using Microsoft.AspNetCore.Mvc;
 using RiseTechDemoApp.Domain.Constants;
@@ -12,15 +11,13 @@ namespace ContactService.UI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class ContactInfoController : ControllerBase
+    public class ContactInfoController : BaseController
     {
-        readonly IMapper _mapper;
         readonly IPersonService _personService;
         readonly IContactInfoService _contactInfoService;
 
-        public ContactInfoController(IMapper mapper, IPersonService personService, IContactInfoService contactInfoService)
+        public ContactInfoController(IPersonService personService, IContactInfoService contactInfoService)
         {
-            _mapper = mapper;
             _personService = personService;
             _contactInfoService = contactInfoService;
         }
@@ -42,6 +39,7 @@ namespace ContactService.UI.Controllers
                 result.Entity.PersonName = person != null ? person.Name + " " + person.Surname : string.Empty;
                 result.Entities = queryData.Entities;
                 result.TotalCount = queryData.TotalCount;
+                result.IsSuccess = true;
             }
             catch (Exception ex)
             {
@@ -97,6 +95,8 @@ namespace ContactService.UI.Controllers
                     Info = string.Empty,
                     InfoTypes = EnumHelpers.ToSelectListItems<InfoType>()
                 };
+
+                result.IsSuccess = true;
             }
             catch (Exception ex)
             {
@@ -120,10 +120,11 @@ namespace ContactService.UI.Controllers
             try
             {
                 ContactInfo info = _contactInfoService.GetContactInfoWithPerson(id);
-                result.Entity = _mapper.Map<ContactInfoData>(info);
+                result.Entity = Mapper.Map<ContactInfoData>(info);
                 result.Entity.PersonName = info.Person?.Name + " " + info.Person?.Surname;
                 result.Entity.InfoType = ((int?)info.InfoType?.GetEnum<InfoType>()).ToString();
                 result.Entity.InfoTypes = EnumHelpers.ToSelectListItems<InfoType>();
+                result.IsSuccess = true;
             }
             catch (Exception ex)
             {
@@ -154,7 +155,7 @@ namespace ContactService.UI.Controllers
 
             try
             {
-                ContactInfo info = _mapper.Map<ContactInfo>(infoData);
+                ContactInfo info = Mapper.Map<ContactInfo>(infoData);
                 info.InfoType = infoData.InfoType.GetDisplayName<InfoType>();
                 result = _contactInfoService.Save(info);
             }

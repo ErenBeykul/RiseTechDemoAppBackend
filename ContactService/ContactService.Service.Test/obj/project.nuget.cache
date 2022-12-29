@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mHlHQ1zLpHDZoxtRQN68k+73k5UiRMEUvUVbeS9pZFInL+p1fU5xe2y6Uw85oGJQ9fxBfK/wa1a517WLX5e5CQ==",
+  "dgSpecHash": "tDmne316n0/+U8v7txVo5a9AY24+QO8+7SqI9+10objbVHYnsrOtmihnuG9chPfXTsJKNkPSrcSfTDLq2GNymg==",
   "success": true,
-  "projectFilePath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.Service.Test\\ContactService.Service.Test.csproj",
+  "projectFilePath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.Service.Test\\ContactService.Service.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eren\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Eren\\.nuget\\packages\\fastexpressioncompiler\\3.3.3\\fastexpressioncompiler.3.3.3.nupkg.sha512",

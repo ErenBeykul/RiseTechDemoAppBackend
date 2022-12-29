@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jpgb+zAxYGejOEvGcwTLk+BuuIjCZYC6SAPEsIB4eTsWS1rp5xl/z8Io1RxWib2qn7cvxFtO44LrI3VSIo17pw==",
+  "dgSpecHash": "o782WGVJS44sdoxJSdyh7r9rNTRj5E6I91xcuyG6ecvdiYKnFMvJLo+8ShTt+aLAIRLU1jQcYfNRVS7foalBiQ==",
   "success": true,
-  "projectFilePath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.DataAccess\\ContactService.DataAccess.csproj",
+  "projectFilePath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.DataAccess\\ContactService.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eren\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Eren\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g58qPupLv+kU6kEiTTQDPe/JUEAtOPO//0DNO1exKy0iZYnlzgZKg7A768kuaHvBFlWBndrNrQzHhCxLbyY5UQ==",
+  "dgSpecHash": "DkIaCnWUnshaTz8HiRmW2ovMx72w6NlQqA1uIMJGAUnXFzoAS0ovJOv3VdoOvfKouyZcaln7HUUQ/zKAF3N76g==",
   "success": true,
-  "projectFilePath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.Service\\ContactService.Service.csproj",
+  "projectFilePath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.Service\\ContactService.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eren\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
     "C:\\Users\\Eren\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512",

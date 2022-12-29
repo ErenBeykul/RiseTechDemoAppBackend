@@ -26,6 +26,12 @@ namespace ContactService.Service
         ContactInfo GetContactInfoWithPerson(Guid id);
 
         /// <summary>
+        /// Belli Bir Rehber Raporunun Verilerini Elde Eder
+        /// </summary>
+        /// <returns></returns>
+        List<ReportData> GetReportData();
+
+        /// <summary>
         /// Rehbere Belli Bir İletişim Bilgisini Kaydeder
         /// </summary>
         /// <param name="info"></param>

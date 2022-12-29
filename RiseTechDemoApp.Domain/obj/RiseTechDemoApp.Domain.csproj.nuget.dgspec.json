@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj": {}
+    "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj": {
+    "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj",
+        "projectUniqueName": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj",
         "projectName": "RiseTechDemoApp.Domain",
-        "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj",
+        "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Eren\\.nuget\\packages\\",
-        "outputPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoApp.Domain\\obj\\",
+        "outputPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\RiseTechDemoApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

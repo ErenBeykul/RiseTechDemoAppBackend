@@ -36,6 +36,12 @@ namespace ContactService.Service.Test
         }
 
         [Fact]
+        public void GetReportData()
+        {
+            _contactInfoService.GetReportData();
+        }
+
+        [Fact]
         public void Save()
         {
             _contactInfoService.Save(new ContactInfo() { PersonId = Guid.Parse("5fcc5c4a-bb09-49d1-a27c-73f4047aa742") });

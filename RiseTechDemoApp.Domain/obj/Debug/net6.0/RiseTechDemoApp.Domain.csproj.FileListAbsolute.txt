@@ -10,3 +10,15 @@ D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoApp.Domai
 D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoApp.Domain\obj\Debug\net6.0\refint\RiseTechDemoApp.Domain.dll
 D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoApp.Domain\obj\Debug\net6.0\RiseTechDemoApp.Domain.pdb
 D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoApp.Domain\obj\Debug\net6.0\ref\RiseTechDemoApp.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\bin\Debug\net6.0\RiseTechDemoApp.Domain.deps.json
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\bin\Debug\net6.0\RiseTechDemoApp.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\bin\Debug\net6.0\RiseTechDemoApp.Domain.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\obj\Debug\net6.0\RiseTechDemoApp.Domain.csproj.AssemblyReference.cache
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\obj\Debug\net6.0\RiseTechDemoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\obj\Debug\net6.0\RiseTechDemoApp.Domain.AssemblyInfoInputs.cache
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\obj\Debug\net6.0\RiseTechDemoApp.Domain.AssemblyInfo.cs
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\obj\Debug\net6.0\RiseTechDemoApp.Domain.csproj.CoreCompileInputs.cache
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\obj\Debug\net6.0\RiseTechDemoApp.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\obj\Debug\net6.0\refint\RiseTechDemoApp.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\obj\Debug\net6.0\RiseTechDemoApp.Domain.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\RiseTechDemoApp.Domain\obj\Debug\net6.0\ref\RiseTechDemoApp.Domain.dll

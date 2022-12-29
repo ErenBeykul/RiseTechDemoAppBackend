@@ -71,6 +71,43 @@ namespace ContactService.Service
             return _context.ContactInfo.Include(x => x.Person).FirstOrDefault(x => x.Id == id && !x.IsDeleted);
         }
 
+        public List<ReportData> GetReportData()
+        {
+            List<ReportData> reportData = new();
+            var contactInfo = _context.ContactInfo.Where(x => x.InfoType == InfoType.Location.GetDisplayName() && !x.IsDeleted)
+                                                    .Select(x => new { x.PersonId, x.Info })
+                                                    .ToList();
+
+            var locations = contactInfo.Select(x => x.Info).Distinct();
+            var personIds = contactInfo.Select(x => x.PersonId).Distinct();
+
+            var personCountInfo = contactInfo.GroupBy(x => x.Info).Select(x => new { Location = x.Key, PersonCount = x.Count() }).ToList();
+
+            var phoneNumberCountInfo = _context.ContactInfo.Where(x => x.InfoType == InfoType.Phone.GetDisplayName() &&
+                                                                        personIds.Contains(x.PersonId) && !x.IsDeleted)
+                                                            .GroupBy(x => x.PersonId)
+                                                            .Select(x => new { PersonId = x.Key, PhoneNumberCount = x.Count() })
+                                                            .ToList();
+
+            foreach (var item in locations)
+            {
+                var personIdsInThatLocation = contactInfo.Where(x => x.Info == item).Select(x => x.PersonId);
+
+                ReportData data = new()
+                {
+                    Location = item,
+                    PersonCount = personCountInfo.Where(x => x.Location == item).Select(x => x.PersonCount).FirstOrDefault(),
+                    PhoneNumberCount = phoneNumberCountInfo.Where(x => personIdsInThatLocation.Contains(x.PersonId))
+                                                            .Select(x => x.PhoneNumberCount)
+                                                            .Sum()
+                };
+
+                reportData.Add(data);
+            }
+
+            return reportData;
+        }
+
         public Result Save(ContactInfo info)
         {
             Result result = new();

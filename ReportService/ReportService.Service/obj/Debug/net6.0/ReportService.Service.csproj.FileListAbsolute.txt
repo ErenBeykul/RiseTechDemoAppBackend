@@ -1,0 +1,51 @@
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.Service.deps.json
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.Service.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.Service.pdb
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.DataAccess.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.DataAccess.pdb
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.Domain.pdb
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.csproj.AssemblyReference.cache
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.AssemblyInfoInputs.cache
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.AssemblyInfo.cs
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.csproj.CoreCompileInputs.cache
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.csproj.CopyComplete
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\obj\Debug\net6.0\refint\ReportService.Service.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.pdb
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.Service\obj\Debug\net6.0\ref\ReportService.Service.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\bin\Debug\net6.0\ReportService.Service.deps.json
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\bin\Debug\net6.0\ReportService.Service.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\bin\Debug\net6.0\ReportService.Service.pdb
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\bin\Debug\net6.0\ReportService.DataAccess.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\bin\Debug\net6.0\ReportService.Domain.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\bin\Debug\net6.0\ReportService.DataAccess.pdb
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\bin\Debug\net6.0\ReportService.Domain.pdb
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\obj\Debug\net6.0\ReportService.Service.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\obj\Debug\net6.0\ReportService.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\obj\Debug\net6.0\ReportService.Service.AssemblyInfoInputs.cache
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\obj\Debug\net6.0\ReportService.Service.AssemblyInfo.cs
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\obj\Debug\net6.0\ReportService.Service.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\obj\Debug\net6.0\ReportService.Service.csproj.CopyComplete
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\obj\Debug\net6.0\ReportService.Service.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\obj\Debug\net6.0\refint\ReportService.Service.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\obj\Debug\net6.0\ReportService.Service.pdb
+C:\Users\Eren\Desktop\Yedek\ReportService.Service\obj\Debug\net6.0\ref\ReportService.Service.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.csproj.AssemblyReference.cache
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.AssemblyInfoInputs.cache
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.AssemblyInfo.cs
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.csproj.CoreCompileInputs.cache
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\obj\Debug\net6.0\refint\ReportService.Service.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.Service.deps.json
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.Service.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.Service.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.DataAccess.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\bin\Debug\net6.0\RiseTechDemoApp.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\bin\Debug\net6.0\ReportService.DataAccess.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\bin\Debug\net6.0\RiseTechDemoApp.Domain.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\obj\Debug\net6.0\ReportService.Service.csproj.CopyComplete
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.Service\obj\Debug\net6.0\ref\ReportService.Service.dll

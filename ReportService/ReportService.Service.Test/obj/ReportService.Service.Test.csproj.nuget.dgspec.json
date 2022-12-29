@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.Service.Test\\ReportService.Service.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.DataAccess\\ReportService.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.DataAccess\\ReportService.DataAccess.csproj",
+        "projectName": "ReportService.DataAccess",
+        "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.DataAccess\\ReportService.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Eren\\.nuget\\packages\\",
+        "outputPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj": {
+                "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.Service.Test\\ReportService.Service.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.Service.Test\\ReportService.Service.Test.csproj",
+        "projectName": "ReportService.Service.Test",
+        "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.Service.Test\\ReportService.Service.Test.csproj",
+        "packagesPath": "C:\\Users\\Eren\\.nuget\\packages\\",
+        "outputPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.Service.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.Service\\ReportService.Service.csproj": {
+                "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.Service\\ReportService.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "lamar": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.Service\\ReportService.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.Service\\ReportService.Service.csproj",
+        "projectName": "ReportService.Service",
+        "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.Service\\ReportService.Service.csproj",
+        "packagesPath": "C:\\Users\\Eren\\.nuget\\packages\\",
+        "outputPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.DataAccess\\ReportService.DataAccess.csproj": {
+                "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ReportService\\ReportService.DataAccess\\ReportService.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj",
+        "projectName": "RiseTechDemoApp.Domain",
+        "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\RiseTechDemoApp.Domain\\RiseTechDemoApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Eren\\.nuget\\packages\\",
+        "outputPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\RiseTechDemoApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Eren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -20,6 +20,12 @@ namespace RiseTechDemoApp.Domain.Enums
         /// Hata
         /// </summary>
         [Display(Name = "Hata")]
-        Error
+        Error,
+
+        /// <summary>
+        /// Hata
+        /// </summary>
+        [Display(Name = "Hata")]
+        Unauthenticated
     }
 }

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ContactService",
+    "\\ContactService\\ContactService.UI"
   ],
-  "SelectedNode": "\\RiseTechDemoApp.sln",
+  "SelectedNode": "\\ContactService\\ContactService.UI\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

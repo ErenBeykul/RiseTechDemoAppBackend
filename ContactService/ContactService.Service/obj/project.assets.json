@@ -697,11 +697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.Service\\ContactService.Service.csproj",
+      "projectUniqueName": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.Service\\ContactService.Service.csproj",
       "projectName": "ContactService.Service",
-      "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.Service\\ContactService.Service.csproj",
+      "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.Service\\ContactService.Service.csproj",
       "packagesPath": "C:\\Users\\Eren\\.nuget\\packages\\",
-      "outputPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.Service\\obj\\",
+      "outputPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -721,8 +721,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.DataAccess\\ContactService.DataAccess.csproj": {
-              "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.DataAccess\\ContactService.DataAccess.csproj"
+            "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.DataAccess\\ContactService.DataAccess.csproj": {
+              "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.DataAccess\\ContactService.DataAccess.csproj"
             }
           }
         }

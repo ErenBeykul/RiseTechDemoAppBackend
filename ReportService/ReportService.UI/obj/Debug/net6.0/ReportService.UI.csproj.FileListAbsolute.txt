@@ -1,0 +1,237 @@
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\appsettings.Development.json
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\appsettings.json
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.UI.exe
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.UI.deps.json
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.UI.runtimeconfig.json
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.UI.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.UI.pdb
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\EPPlus.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\FastExpressionCompiler.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Humanizer.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\JasperFx.CodeGeneration.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\JasperFx.Core.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\JasperFx.TypeDiscovery.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Lamar.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Lamar.Microsoft.DependencyInjection.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Npgsql.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.DataAccess.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.Service.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.Worker.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.Worker.pdb
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.DataAccess.pdb
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.Domain.pdb
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.Service.pdb
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.csproj.AssemblyReference.cache
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.AssemblyInfoInputs.cache
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.AssemblyInfo.cs
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.csproj.CoreCompileInputs.cache
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.MvcApplicationPartsAssemblyInfo.cs
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\scopedcss\bundle\ReportService.UI.styles.css
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.csproj.CopyComplete
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\refint\ReportService.UI.dll
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.pdb
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.genruntimeconfig.cache
+D:\Rise Technology\RiseTechDemoApp\ReportService\ReportService.UI\obj\Debug\net6.0\ref\ReportService.UI.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.UI.exe
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.UI.deps.json
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.UI.runtimeconfig.json
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.UI.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.UI.pdb
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\EPPlus.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\FastExpressionCompiler.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\JasperFx.CodeGeneration.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\JasperFx.Core.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\JasperFx.TypeDiscovery.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Lamar.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Lamar.Microsoft.DependencyInjection.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.DataAccess.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.Domain.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.Service.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.Worker.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.Worker.pdb
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.DataAccess.pdb
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.Domain.pdb
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\bin\Debug\net6.0\ReportService.Service.pdb
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ReportService.UI.csproj.AssemblyReference.cache
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ReportService.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ReportService.UI.AssemblyInfoInputs.cache
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ReportService.UI.AssemblyInfo.cs
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ReportService.UI.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ReportService.UI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ReportService.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\scopedcss\bundle\ReportService.UI.styles.css
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ReportService.UI.csproj.CopyComplete
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ReportService.UI.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\refint\ReportService.UI.dll
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ReportService.UI.pdb
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ReportService.UI.genruntimeconfig.cache
+C:\Users\Eren\Desktop\Yedek\ReportService.UI\obj\Debug\net6.0\ref\ReportService.UI.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.csproj.AssemblyReference.cache
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.AssemblyInfoInputs.cache
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.AssemblyInfo.cs
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.csproj.CoreCompileInputs.cache
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.MvcApplicationPartsAssemblyInfo.cs
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\refint\ReportService.UI.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\appsettings.Development.json
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\appsettings.json
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.UI.exe
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.UI.deps.json
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.UI.runtimeconfig.json
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.UI.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.UI.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\EPPlus.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\FastExpressionCompiler.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Humanizer.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\JasperFx.CodeGeneration.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\JasperFx.Core.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\JasperFx.TypeDiscovery.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Lamar.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Lamar.Microsoft.DependencyInjection.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Npgsql.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.DataAccess.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.Service.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.Worker.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\RiseTechDemoApp.Domain.dll
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.Worker.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.DataAccess.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\ReportService.Service.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\bin\Debug\net6.0\RiseTechDemoApp.Domain.pdb
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\scopedcss\bundle\ReportService.UI.styles.css
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.csproj.CopyComplete
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ReportService.UI.genruntimeconfig.cache
+D:\Rise Technology\RiseTechDemoApp\RiseTechDemoApp\Backend\RiseTechDemoAppBackend\ReportService\ReportService.UI\obj\Debug\net6.0\ref\ReportService.UI.dll

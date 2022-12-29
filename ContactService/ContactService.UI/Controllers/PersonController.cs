@@ -1,4 +1,3 @@
-using AutoMapper;
 using ContactService.Service;
 using Microsoft.AspNetCore.Mvc;
 using RiseTechDemoApp.Domain.Constants;
@@ -11,14 +10,12 @@ namespace ContactService.UI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class PersonController : ControllerBase
+    public class PersonController : BaseController
     {
-        readonly IMapper _mapper;
         readonly IPersonService _personService;
 
-        public PersonController(IMapper mapper, IPersonService personService)
+        public PersonController(IPersonService personService)
         {
-            _mapper = mapper;
             _personService = personService;
         }
 
@@ -37,6 +34,7 @@ namespace ContactService.UI.Controllers
                 QueryData<PersonData> queryData = _personService.GetPeople(queryParams);
                 result.Entities = queryData.Entities;
                 result.TotalCount = queryData.TotalCount;
+                result.IsSuccess = true;
             }
             catch (Exception ex)
             {
@@ -64,6 +62,8 @@ namespace ContactService.UI.Controllers
                     Surname = string.Empty,
                     Firm = string.Empty
                 };
+
+                result.IsSuccess = true;
             }
             catch (Exception ex)
             {
@@ -87,7 +87,8 @@ namespace ContactService.UI.Controllers
             try
             {
                 Person person = _personService.GetPerson(id);
-                result.Entity = _mapper.Map<PersonData>(person);
+                result.Entity = Mapper.Map<PersonData>(person);
+                result.IsSuccess = true;
             }
             catch (Exception ex)
             {
@@ -118,7 +119,7 @@ namespace ContactService.UI.Controllers
 
             try
             {
-                Person person = _mapper.Map<Person>(personData);
+                Person person = Mapper.Map<Person>(personData);
                 result = _personService.Save(person);
             }
             catch (Exception ex)

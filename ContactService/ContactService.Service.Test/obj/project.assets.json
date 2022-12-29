@@ -7368,11 +7368,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.Service.Test\\ContactService.Service.Test.csproj",
+      "projectUniqueName": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.Service.Test\\ContactService.Service.Test.csproj",
       "projectName": "ContactService.Service.Test",
-      "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.Service.Test\\ContactService.Service.Test.csproj",
+      "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.Service.Test\\ContactService.Service.Test.csproj",
       "packagesPath": "C:\\Users\\Eren\\.nuget\\packages\\",
-      "outputPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.Service.Test\\obj\\",
+      "outputPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.Service.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7392,8 +7392,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.Service\\ContactService.Service.csproj": {
-              "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\ContactService\\ContactService.Service\\ContactService.Service.csproj"
+            "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.Service\\ContactService.Service.csproj": {
+              "projectPath": "D:\\Rise Technology\\RiseTechDemoApp\\RiseTechDemoApp\\Backend\\RiseTechDemoAppBackend\\ContactService\\ContactService.Service\\ContactService.Service.csproj"
             }
           }
         }
